@@ -3,4 +3,10 @@
 body {
   background-color: blue;
   color: white;
+  text-align: center;
+}
+
+.spring-image {
+  height: auto;
+  width: auto;
 }
